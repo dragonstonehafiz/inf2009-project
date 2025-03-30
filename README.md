@@ -245,7 +245,7 @@ State transitions happen automatically or can be triggered remotely from the ser
 
 A video demonstration of the bird laser targeter in action can be found at the following link:
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=P8IKdG1-IL0)
 
 
 ### Notes
