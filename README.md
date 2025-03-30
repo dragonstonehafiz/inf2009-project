@@ -241,6 +241,11 @@ You will be prompted for the MQTT broker IP if using server communication.
 | `QUIT`     | Stops the program and safely disconnects hardware.                     |
 
 State transitions happen automatically or can be triggered remotely from the server.
+## **Video Demonstration**
+
+A video demonstration of the bird laser targeter in action can be found at the following link:
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
 ### Notes
