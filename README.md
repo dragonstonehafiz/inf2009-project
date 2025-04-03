@@ -258,3 +258,4 @@ A video demonstration of the bird laser targeter in action can be found at the f
 
 - The code we used to create the bird sound detection model can be found in the `sound` directory.
 - The onnx models used were generated from a finetuned YoloV5 model. We converted the model to onnx using [YoloV5 export code](https://github.com/ultralytics/yolov5).
+-  The `test-logs` contains a diary of all the tests we did to get our sound and image models.
